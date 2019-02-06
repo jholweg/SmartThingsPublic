@@ -36,7 +36,7 @@ preferences {
     }
     section("New feature test - explode in") {
         input "explodein", "number", required: true, title: "Minutes?"
-        input "delay", "number", required: true, title: "Delay MINUTES?"
+        input "delay", "number", required: true, title: "Delay minutes?"
     }
 }
 
